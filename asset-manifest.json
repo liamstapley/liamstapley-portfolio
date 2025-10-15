@@ -1,13 +1,31 @@
 {
   "files": {
-    "main.css": "/liamstapley-portfolio/static/css/main.f75f2057.css",
-    "main.js": "/liamstapley-portfolio/static/js/main.b2b7b7c6.js",
+    "main.css": "/liamstapley-portfolio/static/css/main.b7c0c7f1.css",
+    "main.js": "/liamstapley-portfolio/static/js/main.97c4460d.js",
+    "static/media/star_wars.jpg": "/liamstapley-portfolio/static/media/star_wars.f1b9ff0e8574935ec1a2.jpg",
+    "static/media/tfatf.jpg": "/liamstapley-portfolio/static/media/tfatf.04fc537ee5bf11befd8d.jpg",
+    "static/media/SummerScholarsPoster-CLAP.pdf": "/liamstapley-portfolio/static/media/SummerScholarsPoster-CLAP.3d0943aef8f2e56dc0c6.pdf",
+    "static/media/CLAPMethodologyScreenshotDiagram.pdf": "/liamstapley-portfolio/static/media/CLAPMethodologyScreenshotDiagram.ff6ce3860de8dc7f2ac3.pdf",
+    "static/media/MusicVisScreenshots.pdf": "/liamstapley-portfolio/static/media/MusicVisScreenshots.d5a9850001f963ce34e0.pdf",
+    "static/media/spiderman2.webp": "/liamstapley-portfolio/static/media/spiderman2.4a9d7ce4f3fe254bc1c5.webp",
+    "static/media/ghost.jpg": "/liamstapley-portfolio/static/media/ghost.895a3351dcb9d7742ddb.jpg",
+    "static/media/dominic_fike.jpg": "/liamstapley-portfolio/static/media/dominic_fike.b55287ba0542b2a6519b.jpg",
+    "static/media/minecraft.jpg": "/liamstapley-portfolio/static/media/minecraft.230894265421e07d3fae.jpg",
+    "static/media/pokemon.jpg": "/liamstapley-portfolio/static/media/pokemon.2eb48559c3bf450d26f9.jpg",
+    "static/media/batman.avif": "/liamstapley-portfolio/static/media/batman.8b5c1674ae3a4a04add8.avif",
+    "static/media/invincible.jpg": "/liamstapley-portfolio/static/media/invincible.93c81c33656e0591085b.jpg",
+    "static/media/jedi_fallen.jpg": "/liamstapley-portfolio/static/media/jedi_fallen.91cc4d0ef420c64b99c8.jpg",
+    "static/media/brenn.jpg": "/liamstapley-portfolio/static/media/brenn.37b3d5a10732e174a404.jpg",
+    "static/media/rdr2.webp": "/liamstapley-portfolio/static/media/rdr2.e807863fbfc0f57d810d.webp",
+    "static/media/himym.jpg": "/liamstapley-portfolio/static/media/himym.0b22b617be5ffdf3aafe.jpg",
+    "static/media/noah_kahan.jpg": "/liamstapley-portfolio/static/media/noah_kahan.eaf1ba07e097e20b6f01.jpg",
+    "static/media/metro.jpg": "/liamstapley-portfolio/static/media/metro.2c1869235a193cd25c9b.jpg",
     "index.html": "/liamstapley-portfolio/index.html",
-    "main.f75f2057.css.map": "/liamstapley-portfolio/static/css/main.f75f2057.css.map",
-    "main.b2b7b7c6.js.map": "/liamstapley-portfolio/static/js/main.b2b7b7c6.js.map"
+    "main.b7c0c7f1.css.map": "/liamstapley-portfolio/static/css/main.b7c0c7f1.css.map",
+    "main.97c4460d.js.map": "/liamstapley-portfolio/static/js/main.97c4460d.js.map"
   },
   "entrypoints": [
-    "static/css/main.f75f2057.css",
-    "static/js/main.b2b7b7c6.js"
+    "static/css/main.b7c0c7f1.css",
+    "static/js/main.97c4460d.js"
   ]
 }
