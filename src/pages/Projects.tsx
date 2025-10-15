@@ -1,5 +1,9 @@
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
+import clapPoster from "../assets/projects/SummerScholarsPoster-CLAP.pdf";
+import musicvisScreenshots from "../assets/projects/MusicVisScreenshots.pdf";
+import clapScreenshots from "../assets/projects/CLAPMethodologyScreenshotDiagram.pdf";
+
 
 type Project = {
   id: number;
@@ -33,7 +37,7 @@ const projects: Project[] = [
         "RankRiser is an AI-driven fitness platform that personalizes training programs using scientific and creator-based data. It integrates a modern FastAPI backend with a React frontend, enabling real-time workout tracking and split generation.",
       links: [
         { label: "GitHub Repo", url: "https://github.com/liamstapley/rankriser" },
-        { label: "Live Preview", url: "#" },
+        { label: "Live Preview (Coming Soon!)", url: "#" },
       ],
     },
   },
@@ -75,14 +79,16 @@ const sensifyProjects: Project[] = [
       "Implemented features including worker whitelisting, locally hosted .wav playback, and SQL-based response tracking for reproducible dataset creation.",
     ],
     skills: "React, FastAPI, SQLite, Docker, Tailwind, Nginx, Python",
-    link: "#",
-    linkLabel: "Research Platform",
+    link: "https://www.linkedin.com/posts/liamstapley_this-past-thursday-i-had-a-great-time-presenting-activity-7363302665100918784-AcGs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFPCRwB92Zak-x99Llgvmjhg9wyZcHQnso",
+    linkLabel: "LinkedIn Post",
     extra: {
       description:
         "Built for the Human-Centered Evaluation and Iterative Refinement of Weakly-Labeled Emotion Annotations for Therapeutic Music Using CLAP. The platform powered large-scale human evaluation of AI-generated emotion descriptions and helped shape the CalmSet dataset.",
       links: [
+        { label: "LinkedIn Post", url: "https://www.linkedin.com/posts/liamstapley_this-past-thursday-i-had-a-great-time-presenting-activity-7363302665100918784-AcGs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFPCRwB92Zak-x99Llgvmjhg9wyZcHQnso" },
         { label: "Paper (Pending Review)", url: "#" },
-        { label: "Poster", url: "#" },
+        { label: "Poster", url: clapPoster },
+        { label: "Interface Flowchart", url: clapScreenshots }
       ],
     },
   },
@@ -103,7 +109,7 @@ const sensifyProjects: Project[] = [
         "The MusicVis Dashboard is a React + FastAPI platform designed for research visualization. It integrates audio data analysis, multi-modal visualization, and interactive exploration of ASD participant data in a modern, scalable environment.",
       links: [
         { label: "Paper (Pending Review)", url: "#" },
-        { label: "Screenshots", url: "#" }
+        { label: "Screenshots", url: musicvisScreenshots }
       ],
     },
   },
