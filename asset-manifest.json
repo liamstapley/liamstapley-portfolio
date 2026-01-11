@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/liamstapley-portfolio/static/css/main.b7c0c7f1.css",
-    "main.js": "/liamstapley-portfolio/static/js/main.97c4460d.js",
+    "main.css": "/liamstapley-portfolio/static/css/main.48122549.css",
+    "main.js": "/liamstapley-portfolio/static/js/main.59953637.js",
+    "static/media/ByteBandits.pdf": "/liamstapley-portfolio/static/media/ByteBandits.d0416391872954815c04.pdf",
     "static/media/star_wars.jpg": "/liamstapley-portfolio/static/media/star_wars.f1b9ff0e8574935ec1a2.jpg",
     "static/media/tfatf.jpg": "/liamstapley-portfolio/static/media/tfatf.04fc537ee5bf11befd8d.jpg",
     "static/media/SummerScholarsPoster-CLAP.pdf": "/liamstapley-portfolio/static/media/SummerScholarsPoster-CLAP.3d0943aef8f2e56dc0c6.pdf",
@@ -9,6 +10,7 @@
     "static/media/MusicVisScreenshots.pdf": "/liamstapley-portfolio/static/media/MusicVisScreenshots.d5a9850001f963ce34e0.pdf",
     "static/media/spiderman2.webp": "/liamstapley-portfolio/static/media/spiderman2.4a9d7ce4f3fe254bc1c5.webp",
     "static/media/ghost.jpg": "/liamstapley-portfolio/static/media/ghost.895a3351dcb9d7742ddb.jpg",
+    "static/media/gta.jpg": "/liamstapley-portfolio/static/media/gta.be54e13d8ec9d1cab03d.jpg",
     "static/media/dominic_fike.jpg": "/liamstapley-portfolio/static/media/dominic_fike.b55287ba0542b2a6519b.jpg",
     "static/media/minecraft.jpg": "/liamstapley-portfolio/static/media/minecraft.230894265421e07d3fae.jpg",
     "static/media/pokemon.jpg": "/liamstapley-portfolio/static/media/pokemon.2eb48559c3bf450d26f9.jpg",
@@ -21,11 +23,11 @@
     "static/media/noah_kahan.jpg": "/liamstapley-portfolio/static/media/noah_kahan.eaf1ba07e097e20b6f01.jpg",
     "static/media/metro.jpg": "/liamstapley-portfolio/static/media/metro.2c1869235a193cd25c9b.jpg",
     "index.html": "/liamstapley-portfolio/index.html",
-    "main.b7c0c7f1.css.map": "/liamstapley-portfolio/static/css/main.b7c0c7f1.css.map",
-    "main.97c4460d.js.map": "/liamstapley-portfolio/static/js/main.97c4460d.js.map"
+    "main.48122549.css.map": "/liamstapley-portfolio/static/css/main.48122549.css.map",
+    "main.59953637.js.map": "/liamstapley-portfolio/static/js/main.59953637.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7c0c7f1.css",
-    "static/js/main.97c4460d.js"
+    "static/css/main.48122549.css",
+    "static/js/main.59953637.js"
   ]
 }
